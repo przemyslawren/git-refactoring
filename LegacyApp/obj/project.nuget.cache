@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy0wB4AcUzpqs3JdWJ8mGnLjsAYAJC4C7uOx0R2STCzdo/SIsnLFSV+Ce7FYzppsfJfE0gpaovIbiakxFWTJNg==",
+  "dgSpecHash": "Tlju/CG0MfC8NFSp9ize3XFcapRHi/ZExfXL2oiZN6Ni55Pyv7A28/7HmDvo4W9HwXwhbAUlYrqwty/uVeAPwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s22687\\Documents\\RiderProjects\\zadanie_with_initial_tests\\zadanie_with_initial_tests\\zadanie_solution\\LegacyApp\\LegacyApp.csproj",
+  "projectFilePath": "C:\\Users\\przem\\RiderProjects\\git-refactoring\\LegacyApp\\LegacyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
